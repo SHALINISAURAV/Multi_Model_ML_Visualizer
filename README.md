@@ -771,7 +771,7 @@ This reflects the type of engineering workflow commonly followed when developing
 
 ## Shalini Saurav
 
-**B.Tech – Computer Science Engineering**
+**B.Tech – Computer Science Engineering-[Data Science]**
 
 Aspiring **AI Engineer | Machine Learning Engineer | Generative AI Developer**
 
